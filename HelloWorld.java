@@ -1,4 +1,4 @@
-package com.example.HelloWorld;
+package com.example.hellolang;
 /* This is a simple Java hello world program.
    FileName : "HelloWorld.java". */
 class HelloWorld {
